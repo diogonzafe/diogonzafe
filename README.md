@@ -4,7 +4,7 @@
 
 ### Sobre mim (PT/BR)
 
-ESou estudante de Sistemas de Informação e entusiasta de tecnologia. Meu principal interesse está no desenvolvimento de software, principalmente utilizando a linguagem Java, na qual venho me especializando e desenvolvendo projetos ao longo do curso. Minha experiência também inclui programação em ADVPL, o que me proporcionou uma visão prática e aprofundada sobre o desenvolvimento de sistemas empresariais.
+Eu sou estudante de Sistemas de Informação e entusiasta de tecnologia. Meu principal interesse está no desenvolvimento de software, principalmente utilizando a linguagem Java, na qual venho me especializando e desenvolvendo projetos ao longo do curso. Minha experiência também inclui programação em ADVPL, o que me proporcionou uma visão prática e aprofundada sobre o desenvolvimento de sistemas empresariais.
 
 ### About me (ENG)
 
